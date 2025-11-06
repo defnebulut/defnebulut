@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Defne Bulut and I'm a Software Developer</h2>
+<h2 align="center">Hi 👋! I'm a Software Developer</h2>
 
 ###
 
