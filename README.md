@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! I'm a Software Developer</h2>
+<h2 align="center">Hi 👋! I'm a Computer Engineer</h2>
 
 ###
 
-<p align="center">Software Developer & Graduate Student specializing in LLM-powered solutions and AI applications. Currently building production LLM systems with LangGraph, PostgreSQL, and Vue.js frontends, using Flask and FastAPI to create robust backends for language model integrations. As a graduate student, my research focuses on AI/ML, exploring various approaches to advance practical applications in the field.</p>
+<p align="center">Computer Engineer & Graduate Student specializing in LLM-powered solutions and AI applications. Currently building production LLM systems with LangGraph, PostgreSQL, and Vue.js frontends, using Flask and FastAPI to create robust backends for language model integrations. As a graduate student, my research focuses on AI/ML, exploring various approaches to advance practical applications in the field.</p>
 
 ###
 
