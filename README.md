@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,javascript" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,javascript,vue" height="45" />
 </p>
 
 
