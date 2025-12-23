@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Computer Engineer</h2>
+<h2 align="center">Hi 👋! I'm a Computer Engineer</h2>
 
 ###
 
