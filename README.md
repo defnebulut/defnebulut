@@ -1,25 +1,52 @@
-<h2 align="center">Hi 👋! I'm a Computer Engineer</h2>
-
-###
-
-<p align="center">Computer Engineer & Graduate Student specializing in LLM-powered solutions and AI applications. Currently building production LLM systems with LangGraph, PostgreSQL, and Vue.js frontends, using Flask and FastAPI to create robust backends for language model integrations. As a graduate student, my research focuses on AI/ML, exploring various approaches to advance practical applications in the field.</p>
-
-###
+<h2 align="center">Hi 👋 I'm Defne Bulut</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,javascript,vue" height="45" />
+  M.Sc. Student in Computer Engineering<br>
+  Akdeniz University
 </p>
 
+<p align="center">
+  <b>Machine Learning · Deep Learning · Explainable AI</b>
+</p>
 
-###
+<p align="center">
+  I am interested in how models learn and make predictions,
+  and how their decisions can be explained.<br>
+  My current research focuses on interpretable breast ultrasound
+  classification as part of my master's thesis.
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,js,vue,postgres"
+    height="48"
+    alt="Python · PyTorch · JavaScript · Vue.js · PostgreSQL"
+  />
+</p>
+
+<br>
 
 <div align="center">
-  <img align="right" height="220" src="https://media.tenor.com/6MVYSO-JJHQAAAAj/cinnamoroll-sanrio.gif" alt="cinnamoroll gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=defnebulut&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="stats graph" />
+  <img
+    align="right"
+    height="220"
+    src="https://media.tenor.com/6MVYSO-JJHQAAAAj/cinnamoroll-sanrio.gif"
+    alt="Cinnamoroll GIF"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=defnebulut&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true"
+    height="150"
+    alt="GitHub statistics"
+  />
+
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=defnebulut&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=defnebulut&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false"
+    height="150"
+    alt="Most used languages"
+  />
 </div>
 
 <br clear="both">
-
-###
